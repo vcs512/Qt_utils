@@ -65,3 +65,6 @@ Arguments must match the type of signal passed
         ui->label_2->setText(s);
     }
 
+
+# Reference:
+https://www.youtube.com/watch?v=pJukFTLKIGM&list=PLx4x_zx8csUhzAyii9-cY-IJwo00p_5AC&index=3
